@@ -1,0 +1,44 @@
+body *{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.bg-navbar-propio {
+    background-color: #28A745;
+}
+.title-color{
+    color: #212529;
+}
+
+.tx-color{
+    color: #707070;
+}
+
+.cu-valor{
+    font-weight: 500;
+    color: #28A745;
+}
+
+.btn-peso{
+    font-weight: 500;
+}
+
+.pieDePag {
+    width: 15%;
+}
+
+@media screen and (width< 474px) {.colapso
+    {
+        display: none;
+    }
+}
+
+@media screen and (width< 474px) {.barra-nav
+    {
+        text-align: center;
+    }
+}
+
